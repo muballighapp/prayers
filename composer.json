@@ -1,5 +1,5 @@
 {
-    "name": "muballigh/prayer-times",
+    "name": "muballigh/prayers",
     "description": "A PHP package for Islamic utilities.",
     "type": "library",
     "autoload": {
