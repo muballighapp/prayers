@@ -1,0 +1,1 @@
+This section includes handles prayer time calculations.
